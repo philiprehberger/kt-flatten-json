@@ -1,6 +1,6 @@
 # flatten-json
 
-[![CI](https://github.com/philiprehberger/kt-flatten-json/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-flatten-json/actions/workflows/publish.yml)
+[![Tests](https://github.com/philiprehberger/kt-flatten-json/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-flatten-json/actions/workflows/publish.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/flatten-json)](https://central.sonatype.com/artifact/com.philiprehberger/flatten-json)
 [![License](https://img.shields.io/github/license/philiprehberger/kt-flatten-json)](LICENSE)
 
@@ -11,9 +11,7 @@ Flatten nested maps to dot-notation keys and unflatten back.
 ### Gradle (Kotlin DSL)
 
 ```kotlin
-dependencies {
-    implementation("com.philiprehberger:flatten-json:0.1.3")
-}
+implementation("com.philiprehberger:flatten-json:0.1.4")
 ```
 
 ### Maven
@@ -22,7 +20,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>flatten-json</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.4</version>
 </dependency>
 ```
 
