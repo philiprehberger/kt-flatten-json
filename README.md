@@ -12,7 +12,7 @@ Flatten nested maps to dot-notation keys and unflatten back.
 
 ```kotlin
 dependencies {
-    implementation("com.philiprehberger:flatten-json:0.1.2")
+    implementation("com.philiprehberger:flatten-json:0.1.3")
 }
 ```
 
@@ -22,7 +22,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>flatten-json</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3</version>
 </dependency>
 ```
 
